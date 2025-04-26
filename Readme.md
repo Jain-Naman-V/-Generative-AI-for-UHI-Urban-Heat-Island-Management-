@@ -1,4 +1,5 @@
 # NYC Urban Heat Island (UHI) Analysis & Prediction Tool 🏙️🔥➡️🌳
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://namanuhi.streamlit.app/)
 
 **Explore, understand, and get insights into Urban Heat Island effects in New York City.**
 
